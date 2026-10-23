@@ -1,0 +1,6 @@
+{
+  "name": "تنظيم وإدارة مسابقة دفع الجلة | أ. سالمة الحكماني",
+  "description": "منصة تعليمية تفاعلية شيقة واحترافية لدرس تنظيم وإدارة مسابقة دفع الجلة ومواصفاتها القانونية - إعداد الأستاذة سالمة الحكماني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
